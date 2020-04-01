@@ -1,6 +1,6 @@
-# DLSAHSLO: A novel deep learning surrogate assisted heat source layout optimization method
+# DLSAHSLO: The heat source layout optimization using deep learning surrogate modeling
 
-Implementation of the code presented in the manuscript "A novel deep learning surrogate assisted heat source layout optimization method" by Xiaoqian Chen and Xianqi Chen and Weien Zhou and Jun Zhang and Wen Yao, which was submitted to Journal "Structural and Multidisciplinary Optimization" for peer review together with the manuscript.
+Implementation of the code presented in the manuscript "The heat source layout optimization using deep learning surrogate modeling" by Xiaoqian Chen and Xianqi Chen and Weien Zhou and Jun Zhang and Wen Yao, which was submitted to Journal "Structural and Multidisciplinary Optimization" for peer review together with the manuscript.
 
 ## Files
 fpn (a folder): feature pyramid network (FPN) model 
