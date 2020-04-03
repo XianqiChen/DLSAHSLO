@@ -5,8 +5,6 @@ Implementation of the code presented in the manuscript "The heat source layout o
 ## Files
 fpn (a folder): feature pyramid network (FPN) model 
 
-modelfile (a folder): the 'pth' files storing FPN model parameters after training
-
 EvaluationFPN.py: the code of Section 6.1.1
 
 NeighborhoodSearch.py: the code of Section 6.2.1
@@ -15,7 +13,7 @@ NeighborhoodSearchConstraint.py: the code of Section 6.2.2
 
 ## Pretrained model
 
-The pretrained models can be downloaded at [here](https://cloud.idrl.site/d/83b2229ec46443c79a11/).
+The parameters of pretrained models can be downloaded at [here](https://cloud.idrl.site/d/83b2229ec46443c79a11/).
 
 ## Note
 For any question or bug with the code, feel free to contact: chenxianqi12@nudt.edu.cn
