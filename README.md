@@ -13,6 +13,9 @@ NeighborhoodSearch.py: the code of Section 6.2.1
 
 NeighborhoodSearchConstraint.py: the code of Section 6.2.2
 
+## Pretrained model
+
+The pretrained models can be downloaded at [here](https://cloud.idrl.site/d/83b2229ec46443c79a11/).
 
 ## Note
 For any question or bug with the code, feel free to contact: chenxianqi12@nudt.edu.cn
